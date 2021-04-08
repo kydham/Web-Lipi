@@ -1,0 +1,602 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: exbico\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-23 23:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: footer.php:61
+msgid "&copy; All Right Reserved "
+msgstr ""
+
+#: includes/theme-sections/exbico-achivements.php:17
+msgid "+"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: includes/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#: 404.php:20
+msgid "404!"
+msgstr ""
+
+#. %s: Description
+#: includes/exbico-customizer/front/customize-achivement.php:70
+#, php-format
+msgid "Achivement number %s"
+msgstr ""
+
+#. %s: Description
+#: includes/exbico-customizer/front/customize-achivement.php:84
+#, php-format
+msgid "Achivement value %s"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-cta.php:6
+msgid "Add call to action button to your website"
+msgstr ""
+
+#: functions.php:160 functions.php:169 functions.php:178 functions.php:187
+msgid "Add footer widget here."
+msgstr ""
+
+#: functions.php:150
+msgid "Add widgets here."
+msgstr ""
+
+#: archive.php:25
+msgid "Blog Archive"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-blog.php:61
+msgid "Blog section description"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-blog.php:48
+msgid "Blog section title"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-blog.php:35
+msgid "Blog section top badge"
+msgstr ""
+
+#: includes/tgm/required-plugins.php:30
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-cta.php:5
+msgid "Call to action"
+msgstr ""
+
+#: header.php:89
+msgid "Close Menu"
+msgstr ""
+
+#: template-parts/content-search.php:27 template-parts/content-single.php:18
+#: template-parts/content.php:26 includes/theme-sections/exbico-blog.php:56
+msgid "comments"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/exbico-customizer/settings/customize-footer.php:19
+msgid "Copyright text"
+msgstr ""
+
+#: includes/exbico-customizer/settings/customize-global.php:86
+msgid "Customize post excerpt limit, global limit is : 22"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: includes/template-tags.php:100 template-parts/content-page.php:39
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: includes/exbico-customizer/settings/customize-breadcrumb.php:6
+msgid "Elite Breadcrumb"
+msgstr ""
+
+#: includes/exbico-customizer/settings/customize-breadcrumb.php:7
+msgid "Elite Breadcrumb Settings."
+msgstr ""
+
+#: includes/exbico-customizer/settings/customize-global.php:20
+msgid "Enable topbar?"
+msgstr ""
+
+#. Name of the theme
+msgid "exbico"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Exbico is the new outstanding, extremely modern Business and agency "
+"WordPress Template, designed for business consulting, marketing consulting, "
+"advertising consulting, financial advisors, insurance brokers, investment "
+"consultants, accountant services, HR consulting, and many more. Also, it "
+"fits for a startup, software as service, app creator and other technology-"
+"related business websites."
+msgstr ""
+
+#: includes/customizer.php:88
+msgid "Exbico sections & theme options"
+msgstr ""
+
+#: includes/customizer.php:87
+msgid "Exbico: Front Page"
+msgstr ""
+
+#: includes/customizer.php:70
+msgid "Exbico: Theme Settings"
+msgstr ""
+
+#: includes/exbico-customizer/settings/customize-footer.php:6
+#: includes/exbico-customizer/settings/customize-footer.php:7
+msgid "Footer Settings"
+msgstr ""
+
+#: functions.php:158
+msgid "Footer Widget 1"
+msgstr ""
+
+#: functions.php:167
+msgid "Footer Widget 2"
+msgstr ""
+
+#: functions.php:176
+msgid "Footer Widget 3"
+msgstr ""
+
+#: functions.php:185
+msgid "Footer Widget 4"
+msgstr ""
+
+#. %s: Description
+#: includes/exbico-customizer/front/customize-achivement.php:44
+#: includes/exbico-customizer/front/customize-team.php:79
+#, php-format
+msgid ""
+"For team icon,  You can use font awesome icon: Eg: %1$s. %2$s See more here "
+"%3$s"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Found"
+msgstr ""
+
+#. Name of the template
+msgid "FrontPage"
+msgstr ""
+
+#: 404.php:26
+msgid "Go to home "
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-hero-slider.php:5
+msgid "Hero Slider"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-hero-slider.php:6
+msgid "Hero slider section"
+msgstr ""
+
+#. %s: Description
+#: includes/exbico-customizer/front/customize-achivement.php:41
+msgid "How to use Icon"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://sitebland.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://sitebland.com/product/exbico"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-blog.php:5
+msgid "Latest Blog"
+msgstr ""
+
+#. %s: post title
+#: includes/template-tags.php:83
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: includes/template-tags.php:70
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: includes/tgm/required-plugins.php:36
+msgid "Mailchimp for WordPress"
+msgstr ""
+
+#: header.php:80
+msgid "Menu"
+msgstr ""
+
+#: single.php:46
+msgid "Next"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:24
+msgid ""
+"Oops! The page you are looking for does not exit. it might been moved or "
+"deleted."
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-achivement.php:5
+msgid "Our Achivements"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-achivement.php:6
+msgid "Our Achivements section"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-services.php:5
+msgid "Our Services"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-team.php:5
+msgid "Our Team"
+msgstr ""
+
+#: template-parts/content-page.php:25
+msgid "Pages:"
+msgstr ""
+
+#. %s: post author.
+#: includes/template-tags.php:46
+#, php-format
+msgctxt "post author"
+msgid "By %s"
+msgstr ""
+
+#. %s: post date.
+#: includes/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: includes/exbico-customizer/settings/customize-global.php:85
+msgid "Post Excerpt Limit"
+msgstr ""
+
+#. 1: list of categories.
+#: includes/template-tags.php:66
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: single.php:45
+msgid "Prev"
+msgstr ""
+
+#: functions.php:60
+msgid "Primary"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-blog.php:6
+msgid "Recent Published Blog."
+msgstr ""
+
+#. %s: search query.
+#: search.php:25
+#, php-format
+msgid "Search Results: %s"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-blog.php:76
+msgid "Select category for Blog"
+msgstr ""
+
+#. %s: Label
+#: includes/exbico-customizer/front/customize-services.php:98
+#, php-format
+msgid "Select page  %1$s"
+msgstr ""
+
+#. %s: Description
+#: includes/exbico-customizer/front/customize-hero-slider.php:38
+#, php-format
+msgid "Select page for slider %s"
+msgstr ""
+
+#. %s: Description
+#: includes/exbico-customizer/front/customize-team.php:93
+#, php-format
+msgid "Select page for team %s"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-services.php:61
+msgid "Service section description"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-services.php:48
+msgid "Service section title"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-services.php:35
+msgid "Service section top badge"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-services.php:6
+msgid "Services section"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-achivement.php:20
+msgid "Show Achivement Section"
+msgstr ""
+
+#: includes/exbico-customizer/settings/customize-breadcrumb.php:56
+msgid "Show Blog Archive Breadcrumb Settings"
+msgstr ""
+
+#: includes/exbico-customizer/settings/customize-breadcrumb.php:72
+msgid "Show Blog Single Breadcrumb Settings"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-cta.php:20
+msgid "Show Call to action"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-hero-slider.php:21
+msgid "Show Hero Slider"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-blog.php:20
+msgid "Show Latest Blog"
+msgstr ""
+
+#: includes/exbico-customizer/settings/customize-breadcrumb.php:22
+msgid "Show Page Breadcrumb Settings"
+msgstr ""
+
+#: includes/exbico-customizer/settings/customize-breadcrumb.php:39
+msgid "Show Search Breadcrumb Settings"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-services.php:20
+msgid "Show Services Section"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-team.php:20
+msgid "Show Team Slider"
+msgstr ""
+
+#: functions.php:148
+msgid "Sidebar Main"
+msgstr ""
+
+#. Author of the theme
+msgid "sitebland"
+msgstr ""
+
+#: header.php:29
+msgid "Skip to content"
+msgstr ""
+
+#. %s: Description
+#: includes/exbico-customizer/front/customize-hero-slider.php:67
+#, php-format
+msgid "Slider button text %s"
+msgstr ""
+
+#. %s: Description
+#: includes/exbico-customizer/front/customize-hero-slider.php:81
+#, php-format
+msgid "Slider button URL  %s"
+msgstr ""
+
+#. %s: Description
+#: includes/exbico-customizer/front/customize-hero-slider.php:52
+#, php-format
+msgid "Slider main heading %s"
+msgstr ""
+
+#: 404.php:23
+msgid "Sorry! The Page Not Found "
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#. 1: list of tags.
+#: includes/template-tags.php:73
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: Description
+#: includes/exbico-customizer/front/customize-team.php:108
+#, php-format
+msgid "Team position %s"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-team.php:6
+msgid "Team Section"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-team.php:61
+msgid "Team section description"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-team.php:48
+msgid "Team section title"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-team.php:35
+msgid "Team section top badge"
+msgstr ""
+
+#. %s: Description
+#: includes/exbico-customizer/front/customize-team.php:116
+msgid "Team Social Icon"
+msgstr ""
+
+#. %s: Description
+#: includes/exbico-customizer/front/customize-team.php:132
+#: includes/exbico-customizer/front/customize-team.php:161
+#: includes/exbico-customizer/front/customize-team.php:190
+#: includes/exbico-customizer/front/customize-team.php:219
+msgid "Team Social Icon 1"
+msgstr ""
+
+#. %s: Description
+#: includes/exbico-customizer/front/customize-team.php:146
+#: includes/exbico-customizer/front/customize-team.php:175
+#: includes/exbico-customizer/front/customize-team.php:204
+#: includes/exbico-customizer/front/customize-team.php:233
+msgid "Team Social Link 1"
+msgstr ""
+
+#. 1: Theme name, 2: Theme author.
+#: footer.php:59 footer.php:64
+#, php-format
+msgid "Theme %2$s  By  %1$s"
+msgstr ""
+
+#: includes/customizer.php:71
+msgid "Theme All Settings"
+msgstr ""
+
+#: includes/exbico-customizer/settings/customize-global.php:6
+msgid "Theme Global"
+msgstr ""
+
+#: includes/exbico-customizer/settings/customize-global.php:7
+msgid "Theme Global Settings"
+msgstr ""
+
+#: functions.php:59
+msgid "Top Menu"
+msgstr ""
+
+#. %s: Description
+#: includes/exbico-customizer/front/customize-achivement.php:57
+#, php-format
+msgid "Type Achivement Icon %s"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-cta.php:35
+msgid "Type call to action title"
+msgstr ""
+
+#. %s: Label
+#: includes/exbico-customizer/settings/customize-global.php:38
+#, php-format
+msgid "Type contact icon %s"
+msgstr ""
+
+#. %s: Description
+#: includes/exbico-customizer/settings/customize-global.php:54
+#: includes/exbico-customizer/settings/customize-global.php:69
+#, php-format
+msgid "Type contact info %s"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-cta.php:77
+msgid "Type CTA button link"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-cta.php:63
+msgid "Type CTA button text "
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-cta.php:49
+msgid "Type CTA content"
+msgstr ""
+
+#. %s: Label
+#: includes/exbico-customizer/front/customize-services.php:112
+#, php-format
+msgid "Type icon %1$s"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-services.php:74
+msgid "Type Section Description"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-hero-slider.php:55
+msgid ""
+"Type slider heading title, content you can add/edit from selected page "
+"content."
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-cta.php:92
+msgid "Upload achivement image"
+msgstr ""
+
+#. %s: Description
+#: includes/exbico-customizer/front/customize-services.php:114
+#: includes/exbico-customizer/front/customize-team.php:119
+#, php-format
+msgid "Use font awesome icon: Eg: %1$s. %2$s See more here %3$s"
+msgstr ""
+
+#. %s: Description
+#: includes/exbico-customizer/settings/customize-global.php:40
+#, php-format
+msgid "Use icon: Eg: %1$s. %2$s See more here %3$s"
+msgstr ""
+
+#: includes/exbico-customizer/front/customize-team.php:75
+msgid "Use Team Social Icon"
+msgstr ""
+
+#: footer.php:61
+msgid "Y"
+msgstr ""
